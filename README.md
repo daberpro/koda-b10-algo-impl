@@ -18,7 +18,7 @@ variabel yang ada berdasarkan cerita diatas:
 ### Flowchart
 
 ```mermaid
-flowchart TB
+flowchart LR
 
     Start((mulai))
     GajiPokok[/gaji_pokok/]
