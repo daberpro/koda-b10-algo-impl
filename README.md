@@ -4,7 +4,8 @@
 2. tentukan nilai gaji pokok dan waktu lembur (dalam satuan jam)
 3. jika waktu lembur lebih dari 6 jam maka hanya akan dihitung 6 jam saja
 4. kemudian hitung total gaji yaitu gaji pokok ditambah 100 ribu rupiah per-jam waktu lembur
-5. selesai
+5. tampilkan total gaji yang sudah dihitung
+6. selesai
 
 ### Flowchart
 
