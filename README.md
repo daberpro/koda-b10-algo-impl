@@ -25,7 +25,7 @@ flowchart LR
     WaktuLembur[/waktu_lembur/]
     CekWaktuLembur{waktu_lembur > 6}
     WaktuLemburDiambil[waktu_lembur = 6]
-    TotalGaji[total_gaji = gaji_pokok + waktu_lembur * 100]
+    TotalGaji[total_gaji = gaji_pokok + waktu_lembur * 100000]
     CetakHasil[/total_gaji/]
     End(((selesai)))
 
