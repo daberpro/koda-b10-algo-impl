@@ -1,0 +1,13 @@
+DECLARE gaji_pokok : INTEGER
+DECLARE waktu_lembur : REAL
+DECLARE total_gaji : REAL
+
+INPUT gaji_pokok
+INPUT waktu_lembur
+
+IF waktu_lembur > 6 THEN
+    waktu_lembur  <- 6
+ENDIF
+
+total_gaji <- gaji_pokok + waktu_lembur * 100
+OUTPUT total_gaji
