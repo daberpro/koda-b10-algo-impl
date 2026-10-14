@@ -1,0 +1,5 @@
+DECLARE celcius : REAL
+INPUT celcius
+OUTPUT "Reamur: ", (celcius * (4 / 5)) 
+OUTPUT "Kelvin: ", (celcius + 273.15)
+OUTPUT "Fahrenheit: ", (celcius * (9/5) + 32)
